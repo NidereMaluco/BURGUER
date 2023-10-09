@@ -1,0 +1,27 @@
+.titulo_principal {
+    text-align: center; color: #fa9a1e; font-size: 100px; 
+}
+
+
+
+
+
+
+
+
+.corpo {
+    background-color: #f3e7d7;
+}
+.Cabeçalho {
+    background-color: #000000ef; color: rgb(255, 252, 252);
+    padding: 20px; /* Espaçamento interno do cabeçalho */
+    text-align: center; /* Alinhamento do texto */
+}    
+.pinto {
+    display: flex;
+}    
+
+.a {
+color: #f16359;
+}
+
